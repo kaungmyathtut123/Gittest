@@ -1,3 +1,3 @@
 <?php 
-echo "Lab4";
+echo "Lab4 kmh";
  ?>
